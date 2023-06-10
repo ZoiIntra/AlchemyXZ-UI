@@ -39,7 +39,6 @@ end)
 You can toggle it true or false !
 ```lua
 local Toggle = Page:Toggle("Toggle",true,function(value)
-  print("Toggle : "..value)
 end)
 ```
 # Creating DropDown
