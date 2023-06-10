@@ -56,3 +56,5 @@ Page:Slider("Slider",true,0,100,10,10,function(value)
   print("Slide : "..value)
 end)
 ```
+# Sample 
+See [Sample.lua](./Sample.lua)
