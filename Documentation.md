@@ -48,6 +48,10 @@ You can choose something in it !
 local DropDown = Page:Dropdown("DropDown",{"1","2","3"},"3",function(value)
   print("Choose : "..value)
 end)
+-- Clear Dropdown
+DropDown:Clear()
+-- Add Dropdown
+DropDown:Add("0")
 ```
 # Creating Slider
 You can slide to get number value.
