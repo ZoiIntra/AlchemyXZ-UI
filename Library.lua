@@ -240,7 +240,7 @@ getgenv().Settings = {
 	Key = Enum.KeyCode.RightControl
 }
 
-function AlchemyUIXZui:Window(text,logo)
+function _G.Window(text,logo)
 	focusui = false
 
 	if logo == nil then
