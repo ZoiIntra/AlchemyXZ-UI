@@ -1,5 +1,6 @@
 # ALCHEMYXZ-UI [ From Alchemy Hub ]
 ![image](./Image/AlchemyLogo.png)
+[Join Discord](https://discord.gg/dUdzZskBCC)
 # What is ALCHEMYXZ-UI ?
 This is a system that allows you to create camps and generate new things through our UI Library. In simple terms, AlchemyXZ-UI or AlchemyUI-XZ is a UI Library designed to be used in phones or computers (PC) without any condition And we also duck as Open Source as well, you can use it or develop it further. Thank you for your support
 # How to Use
