@@ -13,7 +13,6 @@ Page:Button("Button",function()
 end)
 
 local Toggle = Page:Toggle("Toggle",true,function(value)
-	print("Toggle : "..value)
 end)
 
 Page:Line()
