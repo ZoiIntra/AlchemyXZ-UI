@@ -1,4 +1,4 @@
-local AlchemyUIXZui = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/AlchemyUIXZ-UI/main/Library.lua"))()
+local AlchemyUIXZui = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/AlchemyXZ-UI/main/Library.lua"))()
 
 local Main = _G.Window("AlchemyUIXZ Hub",13575821723)
 
