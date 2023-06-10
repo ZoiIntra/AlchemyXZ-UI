@@ -1,7 +1,7 @@
 # Getting Loadstring
 Needed for the UI Lib to work :)
 ```lua
-local AlchemyUIXZui = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/AlchemyUIXZ-UI/main/Library.lua"))()
+local AlchemyUIXZui = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/AlchemyXZ-UI/main/Library.lua"))()
 ```
 # Creating Window
 Main UI cnatant tab and more
