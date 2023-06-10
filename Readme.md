@@ -24,33 +24,33 @@ You can write something on it.
 Page:Label("Label")
 ```
 # Creating Line
-You can call it section !
+Line will separate group.
 ```lua
 Page:Line()
 ```
 # Creating Button
-You can call it section !
+Click to use function !
 ```lua
 Page:Button("Button",function()
   print("Clicked")
 end)
 ```
 # Creating Toggle
-You can call it section !
+You can toggle it true or false !
 ```lua
 local Toggle = Page:Toggle("Toggle",true,function(value)
   print("Toggle : "..value)
 end)
 ```
 # Creating DropDown
-You can call it section !
+You can choose something in it !
 ```lua
 local DropDown = Page:Dropdown("DropDown",{"1","2","3"},"3",function(value)
   print("Choose : "..value)
 end)
 ```
 # Creating Slider
-You can call it section !
+You can slide to get number value.
 ```lua
 Page:Slider("Slider",true,0,100,10,10,function(value)
   print("Slide : "..value)
