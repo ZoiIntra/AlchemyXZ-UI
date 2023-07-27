@@ -17,13 +17,10 @@ Instructions for use that make it easy for you to understand are [here](./Docume
 # Source Code
 
 - [Library](./Library.lua)
-- 
 - [Sample](./Sample.lua)
-- 
+
 # Developer
 
 - [Alchemy#9999](https://github.com/ZoiIntra)
-- 
 - [zeroTNgaming#9030](https://github.com/ZPSXHUB)
-- 
 - [Other](https://discord.gg/dUdzZskBCC)
